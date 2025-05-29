@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohak Singhal</h1>
 <h3 align="center">A passionate web and app developer diving into cutting-edge tech at Manipal Institute of Technology. I love building responsive web apps, crafting mobile experiences with Flutter, exploring computer vision with OpenCV, and diving into the world of AI. Catch me hacking away at exciting hackathons too!</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohak-singhal&label=Profile%20views&color=3440e5&style=flat-square" alt="mohak-singhal" /> </p>
-<h3 align="left">About Me</h3>
-I’m currently tinkering with web projects at Manipal The Talk Network (MTTN), ISTE Manipal and IEEE SBM  with React, Next.js ,Flutter, and more. Always up for a coding challenge!
-
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://linkedin.com/in/mohak-singhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohak-singhal" height="30" width="40" /></a> <a href="mailto:mohaksinghal516@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" alt="Email" height="30" width="40" /></a></p>
 
