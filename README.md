@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=mohak-singhal&label=Profile+views&color=3440e5&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/stars/Mohak-Singhal?style=flat-square&color=3440e5&label=%E2%AD%90" alt="Stars" />
-<a href="https://github.com/Mohak-Singhal?tab=repositories"><img src="https://img.shields.io/github/repo-count/Mohak-Singhal?style=flat-square&color=3440e5&label=repositories" alt="Repositories" /></a>
+<a href="https://github.com/Mohak-Singhal?tab=followers"><img src="https://img.shields.io/github/followers/Mohak-Singhal?style=flat-square&color=3440e5&label=followers" alt="Followers" /></a>
 
 </div>
 
